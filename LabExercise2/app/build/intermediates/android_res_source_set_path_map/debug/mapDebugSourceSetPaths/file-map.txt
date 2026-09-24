@@ -1,0 +1,8 @@
+com.lab2ex2.labexercise2.app-pngs-0 D:\-- SEM 5 BIN\comp3074 (mobileapp)\LabExercise2\app\build\generated\res\pngs\debug
+com.lab2ex2.labexercise2.app-updated_navigation_xml-1 D:\-- SEM 5 BIN\comp3074 (mobileapp)\LabExercise2\app\build\generated\updated_navigation_xml\debug
+com.lab2ex2.labexercise2.app-packageDebugResources-2 D:\-- SEM 5 BIN\comp3074 (mobileapp)\LabExercise2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.lab2ex2.labexercise2.app-packageDebugResources-3 D:\-- SEM 5 BIN\comp3074 (mobileapp)\LabExercise2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.lab2ex2.labexercise2.app-debug-4 D:\-- SEM 5 BIN\comp3074 (mobileapp)\LabExercise2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.lab2ex2.labexercise2.app-debug-5 D:\-- SEM 5 BIN\comp3074 (mobileapp)\LabExercise2\app\src\debug\res
+com.lab2ex2.labexercise2.app-main-6 D:\-- SEM 5 BIN\comp3074 (mobileapp)\LabExercise2\app\src\main\res
+gradleHome-0 C:\Users\Jinsoo\.gradle
